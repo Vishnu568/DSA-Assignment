@@ -24,5 +24,5 @@ function firstNonRepeatedChar(str) {
   const str = 'hello world';
   
   const firstNonRepeated = firstNonRepeatedChar(str);
-  console.log(firstNonRepeated); // Output: 'h'
+  console.log(firstNonRepeated);
   
